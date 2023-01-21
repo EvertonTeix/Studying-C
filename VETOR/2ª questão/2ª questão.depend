@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1674216666 source:c:\users\tteve\onedrive\Área de trabalho\estudando c\vetor\2ª questão\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
